@@ -16,4 +16,9 @@
 - git branch -M main
 - git push -u origin main
 - check status of the new github repository
-- 
+
+# git branch
+-git checkout -b branch_name
+-git add .
+-git commit -m 'msg'
+-git push --set-upstream origin branch_name
